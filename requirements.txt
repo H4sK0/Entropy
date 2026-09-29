@@ -1,0 +1,2 @@
+# Toolkit koristi isključivo Python standardnu biblioteku (Python >= 3.8).
+# Nema vanjskih zavisnosti.
