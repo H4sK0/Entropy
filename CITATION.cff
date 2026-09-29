@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this toolkit or its results, please cite the paper (revised English version) and the corpus."
+title: "Bosnian Entropy Toolkit"
+version: "1.1"
+type: software
+authors:
+  - family-names: "Kahrimanović"
+    given-names: "Hasan"
+    orcid: "https://orcid.org/0009-0005-1746-4498"
+    affiliation: "Hyper Efficient System LLC"
+repository-code: "https://github.com/H4sK0/Entropy"
+keywords:
+  - Bosnian
+  - entropy
+  - information theory
+  - quantitative linguistics
+  - Onicescu energy
+  - corpus linguistics
+references:
+  - type: data
+    title: "Bosnian Corpus v1.0"
+    authors:
+      - family-names: "Kahrimanović"
+        given-names: "Hasan"
+        orcid: "https://orcid.org/0009-0005-1746-4498"
+    doi: "10.5281/zenodo.17757098"
+  - type: article
+    title: "Entropy and Energy of the Bosnian Language: An Information-Theoretic Analysis on a 6.18 GB Corpus (first version)"
+    authors:
+      - family-names: "Kahrimanović"
+        given-names: "Hasan"
+        orcid: "https://orcid.org/0009-0005-1746-4498"
+    doi: "10.5281/zenodo.17970788"
+preferred-citation:
+  type: article
+  title: "Entropy and Energy of the Bosnian Language: An Information-Theoretic Analysis on a 6.18 GB Corpus"
+  authors:
+    - family-names: "Kahrimanović"
+      given-names: "Hasan"
+      orcid: "https://orcid.org/0009-0005-1746-4498"
+      affiliation: "Hyper Efficient System LLC"
+  year: 2026
+  doi: "10.5281/zenodo.20804511"
+  url: "https://doi.org/10.5281/zenodo.20804511"
